@@ -45,6 +45,7 @@ export default class TimeList extends React.Component {
           }
         </List>
         <Button title="Add Item" leftIcon={{ name : 'add-box' }} />
+        {...this.props.children}
       </View>
     )
   }
