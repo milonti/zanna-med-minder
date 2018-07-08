@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name" : "Med Minder",
+    "slug" : "zanna-med-minder",
+    "description": "Small app that tracks when you take your medication, how long it has been since your last dose, and reminds you if your medication coverage has lapsed.",
+  }
+}
